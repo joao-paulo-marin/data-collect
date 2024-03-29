@@ -101,3 +101,4 @@ df.to_parquet('dados_re.parquet', index=False)
 
 # %%
 df.to_pickle('dados_re.pkl')
+df
